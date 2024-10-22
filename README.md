@@ -22,13 +22,14 @@ Currently finishing my degree in Systems Analysis and Development, I have been i
 ### Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/nicolasabreu04" target="_blank">
+  <a href="https://www.linkedin.com/in/nicolasabreu04" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/[@Nicolasabreu04](https://www.instagram.com/nicolasabreu04/)" target="_blank">
+  <a href="https://www.instagram.com/nicolasabreu04/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
